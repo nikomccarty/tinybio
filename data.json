@@ -1,0 +1,129 @@
+{
+  "programName": "Tiny Bio",
+  "tagline": "Microgrants for biology.",
+  "missionStatement": "Biology doesn't have the culture of rapid experimentation and community-driven prototyping that computing does. Microgrants are one way to incentivize more of these acts.\n\nWe give $1,000 grants to seed small, open-source, and community-based activities in biology — workshops, book clubs, podcast episodes, hardware prototypes, or travel as part of a bigger project. We believe that a small amount of money, deployed at the right moment, can meaningfully change the trajectory of a person's life and energies, albeit in often unpredictable ways.\n\nWe're looking to fund things where $1,000 is a meaningful step on its own and not a down payment toward a project that requires much more funding. Applications take less than 10 minutes to complete, and all decisions are made within one week. If you don't hear back after one week, assume you have not been selected. This program is proudly supported by Astera Institute.",
+  "applicationUrl": "https://tally.so/r/ja5D19",
+  "applicationsOpen": true,
+  "lastUpdated": "2026-05-07",
+  "stats": {
+    "totalDisbursed": 13000,
+    "recipientsCount": 15
+  },
+  "reviewers": [
+    "Niko McCarty"
+  ],
+  "recipients": [
+    {
+      "name": "Sebastian Cocioba",
+      "amount": 2500,
+      "month": "March 2026",
+      "blurb": "Laser-based PCR using infrared light and gold-coated tubes."
+    },
+    {
+      "name": "Louis Hom",
+      "amount": 1000,
+      "month": "March 2026",
+      "blurb": "Cell-free protein synthesis on a gel filtration column for higher yields."
+    },
+    {
+      "name": "Bryan Duoto",
+      "amount": 500,
+      "month": "March 2026",
+      "blurb": "Same-day colony-to-sequence cloning using homebrew SPRI and nanopore."
+    },
+    {
+      "name": "Anonymous",
+      "amount": 1000,
+      "month": "March 2026",
+      "blurb": "Recipient requested anonymity."
+    },
+    {
+      "name": "Jeff Nivala",
+      "amount": 1000,
+      "month": "March 2026",
+      "blurb": "An engineered ribosome that translates protein directly from DNA."
+    },
+    {
+      "name": "Michael Darcy",
+      "amount": 1000,
+      "month": "March 2026",
+      "blurb": "A centrifuge-based liquid handler, a DNA-origami protein printer, and a label-free logic analyzer for nanoscale devices."
+    },
+    {
+      "name": "Corey Howe",
+      "amount": 1000,
+      "month": "March 2026",
+      "blurb": "Evolving Vibrio for sub-10-minute doubling and pooled survival assays for protein binders."
+    },
+    {
+      "name": "Andres Arango",
+      "amount": 1000,
+      "month": "March 2026",
+      "blurb": "Antifreeze-protein-driven freeze concentration to accelerate ligation, and designed cradles for membrane protein expression."
+    },
+    {
+      "name": "Jai Padmakumar",
+      "amount": 1000,
+      "month": "March 2026",
+      "blurb": "An automated cloning designer and a universal donor strain for multi-plasmid conjugation."
+    },
+    {
+      "name": "SPLAT Space",
+      "amount": 1000,
+      "month": "March 2026",
+      "blurb": "Turning the giant single-celled alga Valonia ventricosa into an injectable biotech chassis."
+    },
+    {
+      "name": "Sierra Bedwell",
+      "amount": 500,
+      "month": "March 2026",
+      "blurb": "An open-source benchtop system that automates colony PCR and gel electrophoresis end-to-end."
+    },
+    {
+      "name": "Dimi Ivancic",
+      "amount": 500,
+      "month": "March 2026",
+      "blurb": "Designing oligo pools so a single PCA reaction yields a custom protein variant library."
+    },
+    {
+      "name": "Alexander Vawter",
+      "amount": 500,
+      "month": "March 2026",
+      "blurb": "Experiment Engine: an overhead camera that auto-logs every step of bench experiments."
+    },
+    {
+      "name": "Xavier Bower",
+      "amount": 500,
+      "month": "March 2026",
+      "blurb": "IceCreamClone: an interactive tool that ranks DNA assembly strategies and teaches cloning logic."
+    },
+    {
+      "name": "Anonymous",
+      "amount": 500,
+      "month": "March 2026",
+      "blurb": "Recipient requested anonymity."
+    }
+  ],
+  "faq": [
+    {
+      "question": "Who is eligible?",
+      "answer": "Anyone is welcome to apply, with a few exceptions. Current Astera Institute affiliates are not eligible. Grants cannot be sent to people living in countries sanctioned by the United States. These are one-time awards, not ongoing grants, and acceptance does not create any employment or contractor relationship with Astera Institute. All decisions are final and made based on the perceived originality, clarity, and feasibility of the idea. We may not award a grant if no submission meets these standards. Paid grants are taxable income."
+    },
+    {
+      "question": "How much is the grant?",
+      "answer": "Each grant is a fixed $1,000."
+    },
+    {
+      "question": "How long does review take?",
+      "answer": "All decisions are made within one week. We do not respond directly to every application — if you don't hear back within one week, that means you have not been selected."
+    },
+    {
+      "question": "How are payments sent?",
+      "answer": "Payments are made via bank transfer through Ramp. Recipients are required to submit a signed W-9 (U.S.) or W-8BEN (international) form along with their bank details."
+    },
+    {
+      "question": "Who owns the idea?",
+      "answer": "You retain full ownership of your idea. By applying, you grant a non-exclusive, royalty-free license to publish or reference the idea with appropriate attribution."
+    }
+  ]
+}

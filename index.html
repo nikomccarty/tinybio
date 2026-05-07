@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Tiny Bio</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400;0,500;1,400&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <div class="container">
+
+    <header>
+      <h1 id="program-name"></h1>
+      <p id="tagline" class="tagline"></p>
+    </header>
+
+    <section class="mission">
+      <div id="mission-statement"></div>
+    </section>
+
+    <section class="apply">
+      <a id="apply-btn" href="#" class="apply-btn" aria-disabled="false" target="_blank" rel="noopener noreferrer">
+        <span id="apply-label">Apply for a grant</span>
+        <span class="arrow">→</span>
+      </a>
+      <p id="closed-notice" class="closed-notice" hidden>Applications are currently closed.</p>
+    </section>
+
+    <section class="stats" aria-label="Program statistics">
+      <div class="stat">
+        <span class="stat-number" id="stat-disbursed"></span>
+        <span class="stat-label">disbursed</span>
+      </div>
+      <div class="stat-divider" aria-hidden="true"></div>
+      <div class="stat">
+        <span class="stat-number" id="stat-recipients"></span>
+        <span class="stat-label">recipients</span>
+      </div>
+    </section>
+
+    <section class="recipients" id="recipients-section">
+      <details>
+        <summary><h2>Recipients</h2></summary>
+        <ul id="recipients-list" class="recipients-list"></ul>
+        <p id="no-recipients" class="empty-note" hidden>No recipients yet. Be the first.</p>
+      </details>
+    </section>
+
+    <section class="faq" id="faq-section">
+      <h2>Questions</h2>
+      <div id="faq-list"></div>
+    </section>
+
+    <section class="reviewers" id="reviewers-section">
+      <h2>Reviewers</h2>
+      <p id="reviewers-list" class="reviewers-list"></p>
+    </section>
+
+    <footer>
+      <p>
+        Questions? Write to <a href="mailto:nsmccarty3@gmail.com">nsmccarty3@gmail.com</a>.
+      </p>
+      <p class="last-updated">Last updated <span id="last-updated"></span>.</p>
+    </footer>
+
+  </div>
+  <script src="script.js"></script>
+</body>
+</html>
