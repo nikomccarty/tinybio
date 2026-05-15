@@ -1,7 +1,7 @@
 {
   "programName": "Tiny Bio",
   "tagline": "Microgrants for biology.",
-  "missionStatement": "Biology doesn't have the culture of rapid experimentation and community-driven prototyping that computing does. Microgrants are one way to incentivize more of these acts.\n\nWe give $1,000 grants to seed small, open-source, and community-based activities in biology — workshops, book clubs, podcast episodes, hardware prototypes, or travel as part of a bigger project. We believe that a small amount of money, deployed at the right moment, can meaningfully change the trajectory of a person's life and energies, albeit in often unpredictable ways.\n\nWe're looking to fund things where $1,000 is a meaningful step on its own and not a down payment toward a project that requires much more funding. Applications take less than 10 minutes to complete, and all decisions are made within one week. If you don't hear back after one week, assume you have not been selected. This program is proudly supported by Astera Institute.",
+  "missionStatement": "Biology doesn't have the culture of rapid experimentation and community-driven prototyping that computing does. Microgrants are one way to incentivize more of these acts.\n\nWe give $1,000 grants to seed small, open-source, and community-based activities in biology — workshops, book clubs, podcast episodes, hardware prototypes, or travel as part of a bigger project. We believe that a small amount of money, deployed at the right moment, can meaningfully change the trajectory of a person's life and energies, albeit in often unpredictable ways.\n\nWe're looking to fund things where $1,000 is a meaningful step on its own and not a down payment toward a project that requires much more funding. Applications take less than 10 minutes to complete, and all decisions are made within one week. If you don't hear back after one week, assume you have not been selected. These microgrants are made possible by Astera Institute.",
   "applicationUrl": "https://tally.so/r/ja5D19",
   "applicationsOpen": true,
   "lastUpdated": "2026-05-07",
@@ -107,7 +107,11 @@
   "faq": [
     {
       "question": "Who is eligible?",
-      "answer": "Anyone is welcome to apply, with a few exceptions. Current Astera Institute affiliates are not eligible. Grants cannot be sent to people living in countries sanctioned by the United States. These are one-time awards, not ongoing grants, and acceptance does not create any employment or contractor relationship with Astera Institute. All decisions are final and made based on the perceived originality, clarity, and feasibility of the idea. We may not award a grant if no submission meets these standards. Paid grants are taxable income."
+      "answer": "Anyone is welcome to apply, with a few exceptions. Current Astera Institute affiliates are not eligible. Grants cannot be sent to people living in countries sanctioned by the United States. These are one-time awards, not ongoing grants, and acceptance does not create any employment or contractor relationship with Astera Institute. All decisions are final. We may not award a grant if no submission meets our standards. Paid grants are taxable income. This program does not discriminate on the basis of race, color, religion, sex, national origin, age, disability, or any other characteristic protected by applicable law. Prior to receiving payment, winners must confirm in writing that they have no professional or personal relationship with Astera Institute or any of its officers."
+    },
+    {
+      "question": "How are winners selected?",
+      "answer": "Proposals are evaluated on three main criteria. First, likelihood of completion: does the applicant seem genuinely committed to executing the project? Second, funding significance: is $1,000 a meaningful and sufficient contribution to the work, rather than a small fraction of a much larger budget required? Third, originality: if multiple similar proposals are submitted, preference is given to the first and most distinct among them. We will not fund substantially redundant projects."
     },
     {
       "question": "How much is the grant?",
